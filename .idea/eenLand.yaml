@@ -1,8 +1,0 @@
-naam: België
-steden:
-  - stad:
-      naam: Brussel
-      oppervlakte:33.08
-    - stad:
-        naam: Antwerpen
-        oppervlakte: 204.29
