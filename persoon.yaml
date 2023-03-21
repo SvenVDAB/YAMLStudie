@@ -1,0 +1,13 @@
+#voorbeeld YAML
+familienaam: Desmet
+voornamen:
+  - Hans
+  - Cyriel
+kinderen: 3
+gehuwd: true
+adres:
+  straat: Keizerslaan
+  huisnummer: 11
+  woonplaats:
+    postcode: 1000
+    naam: Brussel
