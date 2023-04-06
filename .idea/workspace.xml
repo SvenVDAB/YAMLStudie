@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="625d76a7-3e64-403e-adfa-b01edb79cd2a" name="Changes" comment="6_8" />
+    <list default="true" id="625d76a7-3e64-403e-adfa-b01edb79cd2a" name="Changes" comment="6_8b">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +38,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cursist\Desktop\java\Jenkins\GoedeDoel17\YAMLStudie" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,7 +53,9 @@
       <updated>1679407682269</updated>
       <workItem from="1679407683559" duration="979000" />
       <workItem from="1679933925249" duration="608000" />
-      <workItem from="1679942816073" duration="3013000" />
+      <workItem from="1679942816073" duration="3709000" />
+      <workItem from="1680370505052" duration="464000" />
+      <workItem from="1680705274402" duration="2434000" />
     </task>
     <task id="LOCAL-00001" summary="6_8">
       <created>1679408199542</created>
@@ -62,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679948519477</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="6_8b">
+      <created>1679948711799</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679948711799</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="6_8" />
-    <option name="LAST_COMMIT_MESSAGE" value="6_8" />
+    <MESSAGE value="6_8b" />
+    <option name="LAST_COMMIT_MESSAGE" value="6_8b" />
   </component>
 </project>
